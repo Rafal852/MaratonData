@@ -1,6 +1,6 @@
 # 100 Mile Race Data Analysis
 
-Created simply for me to check out **Looker** , and the process of creating a dashboard there.
+Created simply for me to check out **Looker**, and the process of creating a dashboard there.
 
 ## About
 
